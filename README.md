@@ -15,10 +15,10 @@ Epitech Workshop, Docker
 
 ## Workshop
 ### React
-* Create a react app.
+* Create a react app and access it at http://localhost:3000/.
   
 ### Docker
-* Create a dockerfile to build an image for your react app.
+* Create a dockerfile to build an image for your react app and access it at http://localhost:3000/.
   
 ### Docker Compose
 * Create a docker-compose to run your react image
